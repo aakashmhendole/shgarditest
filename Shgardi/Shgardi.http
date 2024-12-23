@@ -1,0 +1,6 @@
+@Shgardi_HostAddress = http://localhost:5089
+
+GET {{Shgardi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
